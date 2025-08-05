@@ -1,4 +1,4 @@
-# Upgrad_RAG_Assg_Legal_Ashwini-H-V
+# Upgrad_RAG_Assg_Legal_#
 
 Upgrad Legal QnA System – Project Summary (RAG & NLP)
 This project involved building a Legal Question-Answering (QnA) system using a Retrieval-Augmented Generation (RAG) approach, integrating LangChain, OpenAI’s GPT-3.5-turbo, and text-embedding-3-small, with vector databases like FAISS and Qdrant.
